@@ -6,6 +6,8 @@ Collection of Make (Integromat) scenario blueprints used to demonstrate automati
 
 - [1-Create Google Calendar events from data on your Google Sheet](./docs/1-create-google-calendar-events.md)  
   Create calendar events from rows in a Google Sheet; supports multiple attendees parsed from a sheet column.
+  
+  A short visual walkthrough (with screenshots) is included in the scenario doc to help you get started quickly.
 
 ## Contributing
 
